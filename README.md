@@ -51,9 +51,7 @@ The dataset includes various features that influence housing prices, such as:
 ## 📊 Results  
 - The project shows that machine learning can predict house prices with reasonable accuracy.  
 - The best-performing model achieved:  
-  - **R² Score:** …  
-
-*(Replace with actual results from your notebook.)*  
+  - **R² Score:** 0.9016647091207307
 
 ---
 
